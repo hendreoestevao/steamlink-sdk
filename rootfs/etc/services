@@ -1,4 +1,0 @@
-telnet	23/tcp
-tftp	69/udp
-ntp		123/tcp
-ntp		123/udp
